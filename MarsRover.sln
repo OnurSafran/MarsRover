@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover", "src\MarsRover\MarsRover.csproj", "{6F7BC26B-36DD-42E5-9127-7E6B6E2D56BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.Domain", "src\MarsRover.Domain\MarsRover.Domain.csproj", "{AE48A3A4-BBAB-4B5C-98C6-DD4738450C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcceptanceTest", "test\AcceptanceTest\AcceptanceTest.csproj", "{90A1ABEA-810F-44EC-86BD-FEDC9475887F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7BC26B-36DD-42E5-9127-7E6B6E2D56BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7BC26B-36DD-42E5-9127-7E6B6E2D56BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7BC26B-36DD-42E5-9127-7E6B6E2D56BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7BC26B-36DD-42E5-9127-7E6B6E2D56BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE48A3A4-BBAB-4B5C-98C6-DD4738450C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE48A3A4-BBAB-4B5C-98C6-DD4738450C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE48A3A4-BBAB-4B5C-98C6-DD4738450C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE48A3A4-BBAB-4B5C-98C6-DD4738450C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A1ABEA-810F-44EC-86BD-FEDC9475887F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A1ABEA-810F-44EC-86BD-FEDC9475887F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A1ABEA-810F-44EC-86BD-FEDC9475887F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A1ABEA-810F-44EC-86BD-FEDC9475887F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
